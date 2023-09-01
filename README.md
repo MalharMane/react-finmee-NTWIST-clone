@@ -5,6 +5,7 @@
  I have also used a external CDN for Hovering effects of grid content.\
 
  # Output - 
+![VID_20230901164202](https://github.com/MalharMane/react-finmee-project/assets/104439115/bf8ad9c9-aa90-4d64-a1ec-7ec5ef5956d0)
 
  ## Transperent Navbar and Homepage title -
  ![Screenshot (20)](https://github.com/MalharMane/react-finmee-project/assets/104439115/3ea8355d-bccf-4786-834c-c15b553cba41)
