@@ -1,8 +1,8 @@
  #  NTWIST official Website Clone .
- Languages used - javascript , HTML , CSS .
- Library used - React .
- I have used Bootstrap for easy designing and to reduce code complexcity.
- I have also used a external CDN for Hovering effects of grid content.
+ Languages used - javascript , HTML , CSS .\
+ Library used - React .\
+ I have used Bootstrap for easy designing and to reduce code complexcity.\
+ I have also used a external CDN for Hovering effects of grid content.\
 
  # Output - 
 
