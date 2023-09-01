@@ -1,4 +1,4 @@
- # its a Clone of NTWIST Website .
+ #  NTWIST official Website Clone .
  Languages used - javascript , HTML , CSS .
  Library used - React .
  I have used Bootstrap for easy designing and to reduce code complexcity.
