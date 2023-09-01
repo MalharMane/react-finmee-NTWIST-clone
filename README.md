@@ -1,3 +1,24 @@
+ # its a Clone of NTWIST Website .
+ Languages used - javascript , HTML , CSS .
+ Library used - React .
+ I have used Bootstrap for easy designing and to reduce code complexcity.
+ I have also used a external CDN for Hovering effects of grid content.
+
+ # Output - 
+
+ ## Transperent Navbar and Homepage title -
+ ![Screenshot (20)](https://github.com/MalharMane/react-finmee-project/assets/104439115/3ea8355d-bccf-4786-834c-c15b553cba41)
+
+ ## background Filled Navbar after scroll -
+ ![Screenshot (21)](https://github.com/MalharMane/react-finmee-project/assets/104439115/b42f0176-020f-407a-a5e8-2047941be3e2)
+
+## Customised Footer of NTWIST -  
+ 
+![Screenshot (22)](https://github.com/MalharMane/react-finmee-project/assets/104439115/49f47d47-48d8-46f6-a066-be4953d1b9de)
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
